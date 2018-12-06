@@ -114,6 +114,7 @@
     <Content Include="About.aspx" />
     <Content Include="Advertising.aspx" />
     <Content Include="aquaponics.aspx" />
+    <Content Include="AquaponicsWS.aspx" />
     <Content Include="Cafeteria.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -192,6 +193,13 @@
     </Compile>
     <Compile Include="aquaponics.aspx.designer.cs">
       <DependentUpon>aquaponics.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AquaponicsWS.aspx.cs">
+      <DependentUpon>AquaponicsWS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AquaponicsWS.aspx.designer.cs">
+      <DependentUpon>AquaponicsWS.aspx</DependentUpon>
     </Compile>
     <Compile Include="Cafeteria.aspx.cs">
       <DependentUpon>Cafeteria.aspx</DependentUpon>

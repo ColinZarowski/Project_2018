@@ -33,3 +33,9 @@ textarea {
 #masterHeader{
     background-color:green;
 }
+
+
+/* Recreation page formatting*/
+.alignText {
+    text-align: center;
+}

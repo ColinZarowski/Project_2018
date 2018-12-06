@@ -4,6 +4,8 @@
 <%-- Domenico Tolone --%>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+	<link href="StyleSheetAquaponics.css" rel="stylesheet" />
+
     <title></title>
 </head>
 <body>
@@ -22,6 +24,11 @@
                         <li><a runat="server" href="~/Contact.aspx">Contact</a></li>
                     </ul>
                 </div>
+		<div class="introPicture">
+
+			
+
+		</div>
 
 		<div class="entry-content">
 			<h2 style="text-align: center;"><span style="color:#008000;">Be sure to visit our 

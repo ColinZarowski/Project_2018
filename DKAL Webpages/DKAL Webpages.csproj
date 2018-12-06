@@ -113,6 +113,7 @@
   <ItemGroup>
     <Content Include="About.aspx" />
     <Content Include="Advertising.aspx" />
+    <Content Include="aquaponics.aspx" />
     <Content Include="Cafeteria.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -185,6 +186,13 @@
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="aquaponics.aspx.cs">
+      <DependentUpon>aquaponics.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aquaponics.aspx.designer.cs">
+      <DependentUpon>aquaponics.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Cafeteria.aspx.cs">
       <DependentUpon>Cafeteria.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

@@ -41,7 +41,7 @@
         <div class="navbar navbar-inverse navbar-fixed-top" id="masterHeader">
             <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand" runat="server" href="~/">Placeholder Logo</a>
+                    <a class="navbar-brand" runat="server" href="~/">DKAL</a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">

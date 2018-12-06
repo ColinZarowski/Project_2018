@@ -13,5 +13,15 @@ namespace DKAL_Webpages
         {
 
         }
+
+        protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
+        {
+            Server.Transfer("~/Fitness.aspx");
+        }
+
+        protected void ImageButton2_Click(object sender, ImageClickEventArgs e)
+        {
+            Server.Transfer("~/Fitness.aspx");
+        }
     }
 }

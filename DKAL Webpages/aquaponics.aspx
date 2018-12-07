@@ -37,16 +37,16 @@
 			<h2 style="text-align: center;"><span style="color:#008000;">Be sure to visit our 
 				<a href="AquaponicsWS.aspx">Aquaponic Work Shop</a> to see our upcoming workshop</span></h2>
 			
-			                                
+			       <hr>                         
 
 		</div>
         <div class="title-container">
-			<h2 class="whatIs">What is Aquaponics?</h2>
+			<h2 style="text-align: center; color: green;">What is Aquaponics?</h2>
 			
         </div>
 		<div class="wip">
 
-			<p> The most simple definition of Aquaponics is <strong>the combination of aquaculture (raising fish)
+			<p style="text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size:large;"> The most simple definition of Aquaponics is <strong>the combination of aquaculture (raising fish)
 				and hydroponics (the soil-less growing of plants)</strong>that grows <strong>fish</strong> and <strong>plants</strong>
 				together in one integrated system. The fish waste provides an organic food source for the plants, and the plants naturally 
 				filter the water fo the fish.
@@ -66,6 +66,9 @@
 				 <img src="img/aquaponics3.jpg" alt="Mountains" style="width:100%">
 		</div>
 		</div>
+
+
+
 	<div class="footerAp">
 
 		<p>© 2018 - Daniel Kaukinen Advanced Laboratories</p>

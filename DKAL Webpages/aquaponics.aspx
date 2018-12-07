@@ -26,7 +26,7 @@
                 </div>
 		<div class="introPicture">
 
-			
+			<%--  <img src="img/introPicture.jpg" style="margin-bottom: 0px" /> --%>
 
 		</div>
 

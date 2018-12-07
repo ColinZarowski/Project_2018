@@ -37,3 +37,10 @@ li {
 		li a:hover {
 			background-color: mediumseagreen;
 		}
+.introPicture {
+	/* border: 2px solid black; */
+	padding: 250px;
+	background-image: url('img/introPicture.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}

@@ -38,9 +38,25 @@
 
 		</div>
         <div class="title-container">
-			<h2 class="entry-title">What is Aquaponics?</h2>
+			<h2 class="whatIs">What is Aquaponics?</h2>
 			
         </div>
+		<div></div> <%-- Info about what aquaponics is --%>
+
+		<div class="row">
+			<div class="column">
+				<img src="img/aquaponics1.jpg" alt="Snow" style="width:100%">
+		 </div>
+			<div class="column">
+				<img src="img/aquaponics2.jpg" alt="Forest" style="width:100%">
+			</div>
+			<div class="column">
+				 <img src="img/aquaponics3.jpg" alt="Mountains" style="width:100%">
+		</div>
+		</div>
+
+
+
     </form>
 </body>
 </html>

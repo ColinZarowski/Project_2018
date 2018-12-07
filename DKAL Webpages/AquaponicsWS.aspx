@@ -27,6 +27,9 @@
 			<%--  <img src="img/introPicture.jpg" style="margin-bottom: 0px" /> --%>
 
 		</div>
+
+		Go back to the <a href="aquaponics.aspx">Aquaponic</a> page
+
         <div>
         </div>
     </form>

@@ -9,4 +9,18 @@
             will never have to plan your next meal again.
         </p>
     </div>
+
+    <br />
+
+    <div class="chinaDishes">
+        <p class="chinaDishes">
+            From the ever so beautiful China, we have a variety as beautiful as their scenery! Make 
+            sure to try some of these delightful dishes:
+        </p>
+        <ul>
+            <li>Char Siu:</li>
+            <li>Hotpot: </li>
+            <li>Chow Mein:</li>
+        </ul>
+    </div>
 </asp:Content>

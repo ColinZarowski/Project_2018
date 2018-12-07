@@ -1,5 +1,6 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="aquaponics.aspx.cs" Inherits="DKAL_Webpages.aquaponics" %>
 
+
 <!DOCTYPE html>
 <%-- Domenico Tolone --%>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -9,6 +10,7 @@
     <title></title>
 </head>
 <body>
+
     <form id="form1" runat="server">
 
 		<div class="navbarAquaponics">
@@ -21,7 +23,8 @@
 						<li><a runat="server" href="~/aquaponics.aspx">Aquaponics</a></li> 
 
                         <li><a runat="server" href="~/About.aspx">About</a></li>
-                        <li><a runat="server" href="~/Contact.aspx">Contact</a></li>
+						<li><a runat="server" href="~/Recreation.aspx">Recreation</a></li>
+                        
                     </ul>
                 </div>
 		<div class="introPicture">
@@ -41,8 +44,17 @@
 			<h2 class="whatIs">What is Aquaponics?</h2>
 			
         </div>
-		<div></div> <%-- Info about what aquaponics is --%>
+		<div class="wip">
 
+			<p> The most simple definition of Aquaponics is <strong>the combination of aquaculture (raising fish)
+				and hydroponics (the soil-less growing of plants)</strong>that grows <strong>fish</strong> and <strong>plants</strong>
+				together in one integrated system. The fish waste provides an organic food source for the plants, and the plants naturally 
+				filter the water fo the fish.
+			</p>
+
+
+		</div>
+		
 		<div class="row">
 			<div class="column">
 				<img src="img/aquaponics1.jpg" alt="Snow" style="width:100%">
@@ -54,8 +66,11 @@
 				 <img src="img/aquaponics3.jpg" alt="Mountains" style="width:100%">
 		</div>
 		</div>
+	<div class="footerAp">
 
+		<p>© 2018 - Daniel Kaukinen Advanced Laboratories</p>
 
+	</div>
 
     </form>
 </body>

@@ -1,6 +1,8 @@
 ﻿
 /*Domenico Tolone*/
 body {
+	background-color: beige;
+
 }
 .navbarAquaponics {
 	background-color: green;
@@ -71,4 +73,12 @@ li {
 	content: "";
 	clear: both;
 	display: table;
+}
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: black;
+	text-align: center;
 }

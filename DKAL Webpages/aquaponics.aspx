@@ -47,10 +47,10 @@
         </div>
 		<div class="wip">
 
-			<p style="text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size:large;"> The most simple definition of Aquaponics is <strong>the combination of aquaculture (raising fish)
-				and hydroponics (the soil-less growing of plants)</strong>that grows <strong>fish</strong> and <strong>plants</strong>
-				together in one integrated system. The fish waste provides an organic food source for the plants, and the plants naturally 
-				filter the water fo the fish.
+			<p style="text-align: center;">
+				<strong>Aquaponics</strong> is conventionally a system of sheltered environments for fish and other animals. It is used
+				to extract nutrients from the waste produced by these creatures. The nutrients can be used for various purposes, but
+				their most common use is to support the self-sufficienty of Hydroponics.
 			</p>
 
 

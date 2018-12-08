@@ -83,7 +83,13 @@ li {
 	color: black;
 	text-align: center;
 }
-.titleContainer {
 
+.column-left { float: left; width: 33%; }
+.column-right {
+	float: right;
+	width: 33%;
 }
-
+.column-center {
+	display: inline-block;
+	width: 33%;
+}

@@ -6,6 +6,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 	<link href="StyleSheetAquaponics.css" rel="stylesheet" />
+	
 
     <title></title>
 </head>
@@ -42,32 +43,30 @@
 
 		</div>
         <div class="title-container">
-			<h2 style="text-align: center; color: green;">What is Aquaponics?</h2>
+			<h2 style="text-align: left; color: green;">What is Aquaponics?</h2>
 			
         </div>
-		<div class="wip">
-
-			<p style="text-align: center;">
-				<strong>Aquaponics</strong> is conventionally a system of sheltered environments for fish and other animals. It is used
-				to extract nutrients from the waste produced by these creatures. The nutrients can be used for various purposes, but
-				their most common use is to support the self-sufficienty of Hydroponics.
-			</p>
-
-
-		</div>
 		
 		<div class="row">
 			<div class="column">
-				<img src="img/aquaponics1.jpg" alt="Snow" style="width:100%">
+				<p alt="Snow" style="width:100%; height: 450px;">
+
+
+					<strong>Aquaponics</strong> is conventionally a system of sheltered environments for fish and other animals. It is used
+				to extract nutrients from the waste produced by these creatures. The nutrients can be used for various purposes, but
+				their most common use is to support the self-sufficienty of Hydroponics.
+
+
+
+				</p>
 		 </div>
 			<div class="column">
-				<img src="img/aquaponics2.jpg" alt="Forest" style="width:100%">
+				<img src="img/AquaponicsSystem.png" alt="Forest" style="width:100%; height: 450px;">
 			</div>
 			<div class="column">
-				 <img src="img/aquaponics3.jpg" alt="Mountains" style="width:100%">
+				 <img src="img/aquaponics3.jpg" alt="Mountains" style="width:100%; height: 450px;">
 		</div>
 		</div>
-
 
 
 	<div class="footerAp">

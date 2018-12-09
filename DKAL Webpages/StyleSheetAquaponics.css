@@ -45,14 +45,14 @@ li {
 			background-color: mediumseagreen;
 		}
 .introPicture {
-	/* border: 2px solid black; */
+	/* border: 2px solid red; */
 	padding: 250px;
 	background-image: url('img/introPicture.jpg');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 .PictureWS {
-	/* border: 2px solid black; */
+	/* border: 2px solid red; */
 	padding: 250px;
 	background-image: url('img/underWater.jpg');
 	background-repeat: no-repeat;
@@ -81,7 +81,7 @@ li {
 	position: fixed;
 	left: 0;
 	bottom: 0;
-	width: 100%;
+	width: 100%; 
 	color: black;
 	text-align: center;
 }

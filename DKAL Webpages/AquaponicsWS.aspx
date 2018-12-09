@@ -34,7 +34,7 @@
 		<!-- Our Aquaponics Classes -->
 		<h1 class="AquaponicsClasses">Our Aquaponics Classes</h1>
 
-
+		<div></div>
 
 		<!-- Footer -->
 	<div class="footerAp">

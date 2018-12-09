@@ -113,8 +113,7 @@
   <ItemGroup>
     <Content Include="About.aspx" />
     <Content Include="Advertising.aspx" />
-    <Content Include="aquaponics.aspx" />
-    <Content Include="AquaponicsWS.aspx" />
+    <Content Include="Aquaponics.aspx" />
     <Content Include="Cafeteria.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -148,6 +147,9 @@
     <Content Include="img\workout-fitness-center_925x.jpg" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Hydroponics.aspx" />
+    <Content Include="img\workshop1.jpg" />
+    <Content Include="img\workshop2.JPG" />
+    <Content Include="img\workshop3.jpg" />
     <Content Include="Recreation.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -178,7 +180,6 @@
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Site.Master" />
-    <Content Include="StyleSheetAquaponics.css" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
@@ -201,19 +202,12 @@
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="aquaponics.aspx.cs">
-      <DependentUpon>aquaponics.aspx</DependentUpon>
+    <Compile Include="Aquaponics.aspx.cs">
+      <DependentUpon>Aquaponics.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="aquaponics.aspx.designer.cs">
-      <DependentUpon>aquaponics.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="AquaponicsWS.aspx.cs">
-      <DependentUpon>AquaponicsWS.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="AquaponicsWS.aspx.designer.cs">
-      <DependentUpon>AquaponicsWS.aspx</DependentUpon>
+    <Compile Include="Aquaponics.aspx.designer.cs">
+      <DependentUpon>Aquaponics.aspx</DependentUpon>
     </Compile>
     <Compile Include="Cafeteria.aspx.cs">
       <DependentUpon>Cafeteria.aspx</DependentUpon>

@@ -17,9 +17,7 @@
                         <li><a runat="server" href="~/Cafeteria.aspx">Cafeteria</a></li>
                         <li><a runat="server" href="~/Advertising.aspx">Advertising</a></li>
                         <li><a runat="server" href="~/Hydroponics.aspx">Hydroponics</a></li>
-
 						<li><a runat="server" href="~/aquaponics.aspx">Aquaponics</a></li> 
-
                         <li><a runat="server" href="~/About.aspx">About</a></li>
                         <li><a runat="server" href="~/Recreation.aspx">Recreation</a></li>
                     </ul>

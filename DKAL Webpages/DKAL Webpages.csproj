@@ -143,6 +143,13 @@
     <Content Include="img\AquaponicsSystem.png" />
     <Content Include="img\AquaponicsWSLogo.png" />
     <Content Include="img\fitness-ball_925x.jpg" />
+    <Content Include="img\Hydro1.jpg" />
+    <Content Include="img\Hydro2.jpg" />
+    <Content Include="img\hydro3.png" />
+    <Content Include="img\hydro4.jpg" />
+    <Content Include="img\hydro5.jpg" />
+    <Content Include="img\hydro6.jpg" />
+    <Content Include="img\hydro7.jpg" />
     <Content Include="img\introPicture.jpg" />
     <Content Include="img\underWater.jpg" />
     <Content Include="img\workout-fitness-center_925x.jpg" />

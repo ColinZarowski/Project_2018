@@ -1,15 +1,10 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Hydroponics.aspx.cs" Inherits="DKAL_Webpages.Hydroponics" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Hydroponics.aspx.cs" Inherits="DKAL_Webpages.Hydroponics" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+	<h1>Hydroponics Information:</h1>
+	<hr>
+	<h2>1. What is Hydroponics?</h2>
 
-<!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <div>
-        </div>
-    </form>
-</body>
-</html>
+
+
+</asp:Content>

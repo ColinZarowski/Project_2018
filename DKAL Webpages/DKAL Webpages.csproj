@@ -123,6 +123,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
+    <Content Include="Energy.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Fitness.aspx" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -234,6 +235,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Energy.aspx.cs">
+      <DependentUpon>Energy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Energy.aspx.designer.cs">
+      <DependentUpon>Energy.aspx</DependentUpon>
     </Compile>
     <Compile Include="Fitness.aspx.cs">
       <DependentUpon>Fitness.aspx</DependentUpon>

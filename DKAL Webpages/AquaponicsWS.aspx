@@ -25,6 +25,7 @@
 
 		<!-- Logo intro Picture -->
 		<div class="PictureWS">
+			<p>TEst</p>
 
 			<%--  <img src="img/AquaponicsWS" style="margin-bottom: 0px" /> --%>
 

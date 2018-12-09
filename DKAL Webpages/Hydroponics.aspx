@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Hydroponics.aspx.cs" Inherits="DKAL_Webpages.Hydroponics" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-	<h1>Hydroponics</h1>
+	<h1 style="text-align: center;">Hydroponics</h1>
 	<hr>
 	<h2>What is Hydroponics?</h2>
 
@@ -68,10 +68,10 @@
 	<img src="img/hydro6.jpg" style="height: 400px; width: 600px" />
 	<br />
 	<br />
-	<img src="img/hydro7.jpg" style="height: 400px; width: 600px" />
+	<img src="img/hydro7.jpg" style="height: 400px; width: 600px"  />
 
 	<br />
 		  <hr />
-	<p>Hydroponics Page created by Domenico Tolone </p>
+	<p>Hydroponics Page created by <strong>Domenico Tolone</strong></p>
 
 </asp:Content>

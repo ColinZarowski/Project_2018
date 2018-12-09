@@ -2,13 +2,11 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
 	  <header>
-        <h1>Aquaponics</h1>
+        <h1 style="text-align: center;">Aquaponics</h1>
         <hr>
-		<p>This section documents information regarding Aquaponics and the benefits it provides
-			in conjunction with Hydroponics. The information is supplied in support of establishing an Aquaponics division inside of the DKAL main facility.</p>
-		<br />
+		
 		  <h1>Defining Aquaponics</h1>
-		  <hr>
+		  
 		  <p><strong>Aquaponics</strong>is conventionally a system of sheltered environments for fish and other aquatic animals.
 			  It is used to extract nutrients from the waste produced by these creatures. The nutrients can be used for various
 			  purposes, but their most common use is to support the self-sufficenty of Hydroponics.
@@ -57,12 +55,12 @@
 		  </ol>
 		  <h1>Getting Started</h1>
 		  <hr>
-		  <p>There are many requirements for starting our very own aquaponics system. The Aquaponic Source presents an excellent checklist that can guide the construction of an aquaponics division at the DKAL facility.</p>
+		  <p>There are many requirements for starting our very own aquaponics system. <a href="https://www.theaquaponicsource.com/getting-started-checklist/">The Aquaponic Source</a> presents an excellent checklist that can guide the construction of an aquaponics division at the DKAL facility.</p>
 
 		  <br />
 		  <hr />
-		  <p>Hydroponics Page created by Domenico Tolone</p>
-		  <p>Test</p>
+		  <p>Aquaponics Page created by <strong>Domenico Tolone</strong></p>
+		  
 
     </header>
 

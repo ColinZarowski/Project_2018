@@ -39,7 +39,8 @@
 		<!-- Footer -->
 	<div class="footerAp">
 
-		<p>© 2018 - Daniel Kaukinen Advanced Laboratories - Aquaponics WorkShop Page created by Domenico Tolone</p>
+		
+		<p>&copy; <%: DateTime.Now.Year %> - Daniel Kaukinen Advanced Laboratories - Aquaponics WorkShop Page created by Domenico Tolone</p>
 
 	</div>
     </form>

@@ -9,8 +9,10 @@
 </head>
 <body>
     <form id="form1" runat="server">
+		<!-- Menu bar with links to other pages-->
 		<div class="navbarAquaponics">
                     <ul class="nav navbar-nav">
+						<li><a runat="server" href="~/Default.aspx">DKAL</a></li>
                         <li><a runat="server" href="~/Default.aspx">Home</a></li>
                         <li><a runat="server" href="~/Cafeteria.aspx">Cafeteria</a></li>
                         <li><a runat="server" href="~/Advertising.aspx">Advertising</a></li>
@@ -22,16 +24,24 @@
                         <li><a runat="server" href="~/Recreation.aspx">Recreation</a></li>
                     </ul>
                 </div>
+
+		<!-- Logo intro Picture -->
 		<div class="PictureWS">
 
-			<%--  <img src="img/introPicture.jpg" style="margin-bottom: 0px" /> --%>
+			<%--  <img src="img/AquaponicsWS" style="margin-bottom: 0px" /> --%>
 
 		</div>
+		<!-- Our Aquaponics Classes -->
+		<h1 class="AquaponicsClasses">Our Aquaponics Classes</h1>
 
-		Go back to the <a href="aquaponics.aspx">Aquaponic</a> page
 
-        <div>
-        </div>
+
+		<!-- Footer -->
+	<div class="footerAp">
+
+		<p>© 2018 - Daniel Kaukinen Advanced Laboratories - Aquaponics WorkShop Page created by Domenico Tolone</p>
+
+	</div>
     </form>
 </body>
 </html>

@@ -17,6 +17,7 @@
 		<!-- Menu bar with links to other pages-->
 		<div class="navbarAquaponics">
                     <ul class="nav navbar-nav">
+						<li><a runat="server" href="~/Default.aspx">DKAL</a></li>
                         <li><a runat="server" href="~/Default.aspx">Home</a></li>
                         <li><a runat="server" href="~/Cafeteria.aspx">Cafeteria</a></li>
                         <li><a runat="server" href="~/Advertising.aspx">Advertising</a></li>
@@ -39,8 +40,8 @@
 		</div>
 		<!-- Link to Aquaponics WorkShop -->
 		<div class="entry-content">
-			<h2 style="text-align: center;"><span style="color:#008000;">Be sure to visit our 
-				<a href="AquaponicsWS.aspx">Aquaponic WorkShop</a> to see our upcoming workshop</span></h2>
+			<h2 style="text-align: center;"><span style="color:#008000;">Take a look to our online
+				<a href="AquaponicsWS.aspx">Aquaponic WorkShop</a> to see the upcoming workshops</span></h2>
 			
 			       <hr>                         
 

@@ -1,8 +1,8 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Hydroponics.aspx.cs" Inherits="DKAL_Webpages.Hydroponics" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-	<h1>Hydroponics Information:</h1>
+	<h1>Hydroponics</h1>
 	<hr>
-	<h2>1. What is Hydroponics?</h2>
+	<h2>What is Hydroponics?</h2>
 
 	<p>
 		Hydroponics has been around for decades. It was originally developed by Nasa around the 
@@ -25,15 +25,18 @@
 
 	<img src="img/Hydro1.jpg" style="height: 400px; width: 600px" />
 	<br />
+	<br />
 	<img src="img/Hydro2.jpg" style="height: 400px; width: 600px" />
+	<br />
 	<br />
 	<p>This method uses net pots to hold a growing medium. Typically this can be rockwool or cotton, surrounded by expanded clay. Commercial setups try to reduce labour 
 		as much as possible since tens of thousands of plants can be grown in a small area.</p>
-	<h2>2. Advantages / Disadvantages</h2>
+	<h2>Advantages / Disadvantages</h2>
 
 	<p>The main advantage to this method is simplicity. Plants are suspended on a floating medium or lid, above the water containing nutrients. Water just touches the bottom of the net pots, 
 		allowing the roots to grow into the solution.</p>
 	<img src="img/hydro3.png" style="height: 400px; width: 600px" />
+	<br />
 	<br />
 	<p>
 		In order to prevent root rot and issues with anerobic bacteria, the solution must be continously aerated 
@@ -47,10 +50,10 @@
 		it still presents large operations with a disposal issue.
 
 	</p>
-	<h2>3. Where is it currently used?</h2>
+	<h2>Where is it currently used?</h2>
 	<p>Home growers commercial growers weed research</p>
 	<br />
-	<h2>4.Lighting technology advancements</h2>
+	<h2>Lighting technology advancements</h2>
 	<p>Tradiononal grow lights were power hungry beasts that required independent main circuits 
 		and exhaust/cooling systems. Typically High-Pressure Sodium or Halogen lights. Today however, 
 		continued research has shown most plants only require two spectrums of visible light - red and blue.
@@ -58,9 +61,17 @@
 		So typically white lights are added when working in the area. </p>
 	<img src="img/hydro4.jpg" style="height: 400px; width: 600px" />
 	<br />
+	<br />
 	<img src="img/hydro5.jpg" style="height: 400px; width: 600px" />
+	<br />
 	<br />
 	<img src="img/hydro6.jpg" style="height: 400px; width: 600px" />
 	<br />
+	<br />
 	<img src="img/hydro7.jpg" style="height: 400px; width: 600px" />
+
+	<br />
+		  <hr />
+	<p>Hydroponics Page created by Domenico Tolone </p>
+
 </asp:Content>

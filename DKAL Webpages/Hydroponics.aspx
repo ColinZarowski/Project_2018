@@ -23,9 +23,9 @@
 	<br />
 	<p>Of the methods, they all have pros and cons, however the method most used commercially is Deep Water Culture (DWC).</p>
 
-	<img src="img/Hydro1.jpg" />
+	<img src="img/Hydro1.jpg" style="height: 400px; width: 600px" />
 	<br />
-	<img src="img/Hydro2.jpg" />
+	<img src="img/Hydro2.jpg" style="height: 400px; width: 600px" />
 	<br />
 	<p>This method uses net pots to hold a growing medium. Typically this can be rockwool or cotton, surrounded by expanded clay. Commercial setups try to reduce labour 
 		as much as possible since tens of thousands of plants can be grown in a small area.</p>
@@ -33,7 +33,7 @@
 
 	<p>The main advantage to this method is simplicity. Plants are suspended on a floating medium or lid, above the water containing nutrients. Water just touches the bottom of the net pots, 
 		allowing the roots to grow into the solution.</p>
-	<img src="img/hydro3.png" />
+	<img src="img/hydro3.png" style="height: 400px; width: 600px" />
 	<br />
 	<p>
 		In order to prevent root rot and issues with anerobic bacteria, the solution must be continously aerated 
@@ -56,11 +56,11 @@
 		continued research has shown most plants only require two spectrums of visible light - red and blue.
 		What you end up with is essentially funky pink light. Which from expereince, is super trippy to work around. 
 		So typically white lights are added when working in the area. </p>
-	<img src="img/hydro4.jpg" />
+	<img src="img/hydro4.jpg" style="height: 400px; width: 600px" />
 	<br />
-	<img src="img/hydro5.jpg" />
+	<img src="img/hydro5.jpg" style="height: 400px; width: 600px" />
 	<br />
-	<img src="img/hydro6.jpg" />
+	<img src="img/hydro6.jpg" style="height: 400px; width: 600px" />
 	<br />
-	<img src="img/hydro7.jpg" />
+	<img src="img/hydro7.jpg" style="height: 400px; width: 600px" />
 </asp:Content>

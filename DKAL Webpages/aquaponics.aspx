@@ -1,8 +1,8 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="aquaponics.aspx.cs" Inherits="DKAL_Webpages.aquaponics" %>
 
-
-<!DOCTYPE html>
 <%-- Domenico Tolone --%>
+<!DOCTYPE html>
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 	<link href="StyleSheetAquaponics.css" rel="stylesheet" />
@@ -44,9 +44,9 @@
 		</div>
 		<div class="wia">
 
-        <strong>Aquaponics</strong> is conventionally a system of sheltered environments for fish and other animals. It is used
+        <p style="font-family: 'Times New Roman';"><strong>Aquaponics</strong> is conventionally a system of sheltered environments for fish and other animals. It is used
 				to extract nutrients from the waste produced by these creatures. The nutrients can be used for various purposes, but
-				their most common use is to support the self-sufficienty of Hydroponics.
+				their most common use is to support the self-sufficienty of Hydroponics. </p>
 
 		</div>
 
@@ -80,7 +80,7 @@ The recycling process of aquaponics improves hydroponics self-sufficiency and re
 
 			</div>
 			<div class="column-left"><strong>Benefits</strong></br>
-				<p>An aquaponics system is a food production process which combines traditional aquaculture with hydroponics.
+				<p style="font-family: 'Times New Roman';">An aquaponics system is a food production process which combines traditional aquaculture with hydroponics.
 
 The animals and plants in an aquaponics system have a symbiotic relationship. Effluents from aquatic animals are used by plants as food.
 
@@ -90,7 +90,7 @@ In the process, the plants purify water for the aquatic animals. Aquaculture and
 			</div>
 			<div class="column-right"><strong>Abstract</strong> </br>
 
-				<p>The world is facing a number of serious problems of which population rise, climate change, 
+				<p style="font-family: 'Times New Roman';">The world is facing a number of serious problems of which population rise, climate change, 
 					soil degradation, water scarcity and food security are among the most important. Aquaponics, 
 					as a closed loop system consisting of hydroponics and aquaculture elements, could contribute 
 					to addressing these problems. However, there is a lack of quantitative research to support the 
@@ -103,11 +103,14 @@ In the process, the plants purify water for the aquatic animals. Aquaculture and
 			
 
 		</div>
-		
+		<br />
+		<br />
+		<br />
+		<hr>
 
 	<div class="footerAp">
 
-		<p>© 2018 - Daniel Kaukinen Advanced Laboratories</p>
+		<p>© 2018 - Daniel Kaukinen Advanced Laboratories - Aquaponics Page created by Domenico Tolone</p>
 
 	</div>
 

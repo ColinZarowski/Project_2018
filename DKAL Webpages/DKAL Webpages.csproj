@@ -137,7 +137,7 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Hydroponics.aspx" />
     <Content Include="img\AquaponicsSystem.png" />
-    <Content Include="img\fitness-ball_925x.jpg" />
+    <Content Include="img\fitness2.jpg" />
     <Content Include="img\Hydro1.jpg" />
     <Content Include="img\Hydro2.jpg" />
     <Content Include="img\hydro3.png" />
@@ -145,8 +145,10 @@
     <Content Include="img\hydro5.jpg" />
     <Content Include="img\hydro6.jpg" />
     <Content Include="img\hydro7.jpg" />
-    <Content Include="img\workout-fitness-center_925x.jpg" />
+    <Content Include="img\solar1.jpg" />
+    <Content Include="img\fitness1.jpg" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="img\solar2.png" />
     <Content Include="Recreation.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />

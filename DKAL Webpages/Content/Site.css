@@ -35,7 +35,12 @@ textarea {
 }
 
 
-/* Recreation page formatting*/
+/* Recreation/Energy page formatting*/
 .alignText {
     text-align: center;
 }
+
+.identPoints {
+    margin-left: 15%;
+}
+

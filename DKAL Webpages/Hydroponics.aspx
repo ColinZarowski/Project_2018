@@ -1,4 +1,5 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Hydroponics.aspx.cs" Inherits="DKAL_Webpages.Hydroponics" %>
+﻿<%@ Page Title="Hydroponics" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Hydroponics.aspx.cs" Inherits="DKAL_Webpages.Hydroponics" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 	<h1 style="text-align: center;">Hydroponics</h1>
 	<hr>

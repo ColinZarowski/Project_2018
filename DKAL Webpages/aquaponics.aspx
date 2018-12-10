@@ -1,4 +1,5 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Aquaponics.aspx.cs" Inherits="DKAL_Webpages.Aquaponics" %>
+﻿<%@ Page Title="Aquaponics" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Aquaponics.aspx.cs" Inherits="DKAL_Webpages.Aquaponics" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
 	  <header>

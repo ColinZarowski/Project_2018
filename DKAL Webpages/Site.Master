@@ -48,7 +48,7 @@
                         <li><a runat="server" href="~/Default.aspx">Home</a></li>
                         <li><a runat="server" href="~/Cafeteria.aspx">Cafeteria</a></li>
                         <li><a runat="server" href="~/Advertising.aspx">Advertising</a></li>
-						<li><a runat="server" href="~/Energy.aspx">Energy System</a></li>
+						<li><a runat="server" href="~/Energy.aspx">Energy Systems</a></li>
                         <li><a runat="server" href="~/Hydroponics.aspx">Hydroponics</a></li> <%-- Domenico Tolone --%>
 						<li><a runat="server" href="~/Aquaponics.aspx">Aquaponics</a></li> <%-- Domenico Tolone --%>
                         <li><a runat="server" href="~/Recreation.aspx">Recreation</a></li>

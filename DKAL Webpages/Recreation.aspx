@@ -35,7 +35,23 @@
             <li><h4>Patrons voting for areas needing improvement.</h4></li>
         </ul>
 
-        <h2 class="alignText">D</h2>
+        <h2 class="alignText">Diving Facilities</h2>
+        <h4 class="alignText">Thanks to a local scuba diving club, we also have an all season diving facilities.</h4>
+
+        <h3 class="identPoints">This is no ordinary diving environment.</h3>
+        <ul class="identPoints">
+            <li><h4>Fresh Water diving environment.</h4></li>
+            <li><h4>Olympic-size pool. (50m long x 25m wide)</h4></li>
+            <li><h4>Olympic diving boards and diving towers.</h4></li>
+            <li><h4>Surrounded by natural looking environment to provide sense of being outdoors.</h4></li>
+            <li><h4>12 person hot tub and 6 person barrel sauna.</h4></li>
+        </ul>
+
+        <!--
+            Interestingly, I have been approached by a scuba diving club that would like to have access to all season diving facilities, 
+            so perhaps if we could create an enormous fresh water diving environment as well that would be awesome.
+            -->
+        
     </main>
 
 </asp:Content>

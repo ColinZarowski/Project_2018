@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace DKAL_Webpages
 {
-    public partial class AquaponicsWS : System.Web.UI.Page
+    public partial class Aquaponics : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

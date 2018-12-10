@@ -68,4 +68,14 @@
             <li>Nicoise Salad</li>
         </ul>
     </div>
+
+    <div>
+        <p>
+            Why bring a meal when you can enjoy the dishes our cafeteria has to offer? 
+            All of our ingredients are grown and available in Canada, so you're supporting 
+            locally while enjoying a taste of the world! Oh, and what if I told you.. this is 
+            only a sneak peek of our dishes: our rotation includes 5 dishes from a pool of 15 
+            per week. You'll always have a variety!
+        </p>
+    </div>
 </asp:Content>

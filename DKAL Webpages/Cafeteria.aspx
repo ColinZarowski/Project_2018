@@ -24,7 +24,7 @@
             <li>Chow Mein</li>
         </ul>
 
-        <p class="indianDishes">
+        <p id="indianDishes">
             You'll never be able to go wrong with these dishes from India. Be sure to treat 
             yourself to some of these on Tuesday:
         </p>
@@ -35,5 +35,15 @@
             <li>Alu Gobi</li>
         </ul>
 
+        <p id="mexicanDishes">
+            Who could pass up some of these dishes from Mexico? You'll be counting down 
+            the days to Wednesday with this:
+        </p>
+
+        <ul>
+            <li>Elole</li>
+            <li>Pinto Bean Salsa Salad</li>
+            <li>Ricotta Croquettes</li>
+        </ul>
     </div>
 </asp:Content>

@@ -20,5 +20,11 @@
         <img src="img/regulator.jpg" style="display: inline-block" /><p>We are currently working on creating regulators that use 20% less air than existing models, allowing for divers to stay underwater for longer.</p>
         &nbsp;<div style="display: inline-block">
         </div>
+        <br />
+        <br />
+        <img src="img/walker.jpg" style="display: inline-block" />
+        <div style="display: inline-block">
+            <p>Our company is currently focusing our fitness research into products that will benefit individuals who are recovering from injuries, and people with physical impairments</p>
         </div>
+    </div>
 </asp:Content>

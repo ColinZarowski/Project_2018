@@ -56,5 +56,16 @@
             <li>Focaccia Bread</li>
             <li>Gnocci di Ricotta</li>
         </ul>
+
+        <p id="frenchDishes">
+            Everyone loves Friday! We're going to give you another reason with 
+            these dishes from France:
+        </p>
+
+        <ul>
+            <li>Coq au Vin</li>
+            <li>Flamiche</li>
+            <li>Nicoise Salad</li>
+        </ul>
     </div>
 </asp:Content>

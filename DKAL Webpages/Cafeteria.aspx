@@ -45,5 +45,16 @@
             <li>Pinto Bean Salsa Salad</li>
             <li>Ricotta Croquettes</li>
         </ul>
+
+        <p id="italianDishes">
+            Thursday cannot come soon enough with these! With all these recipes from Italy, 
+            you'll wish it was Thursday every day:
+        </p>
+
+        <ul>
+            <li>Panzenella</li>
+            <li>Focaccia Bread</li>
+            <li>Gnocci di Ricotta</li>
+        </ul>
     </div>
 </asp:Content>

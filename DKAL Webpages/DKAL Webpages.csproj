@@ -137,6 +137,7 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Hydroponics.aspx" />
     <Content Include="img\AquaponicsSystem.png" />
+    <Content Include="img\doctors.jpg" />
     <Content Include="img\fitness2.jpg" />
     <Content Include="img\Hydro1.jpg" />
     <Content Include="img\Hydro2.jpg" />
@@ -146,15 +147,18 @@
     <Content Include="img\hydro6.jpg" />
     <Content Include="img\hydro7.jpg" />
     <Content Include="img\Hydroponics_Poster.png" />
+    <Content Include="img\regulator.jpg" />
     <Content Include="img\solar1.jpg" />
     <Content Include="img\fitness1.jpg" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="img\solar2.png" />
     <Content Include="img\sun.png" />
     <Content Include="img\turbine.png" />
+    <Content Include="img\walker.jpg" />
     <Content Include="img\wind1.jpg" />
     <Content Include="img\wind2.png" />
     <Content Include="Recreation.aspx" />
+    <Content Include="ResearchAndDevelopment.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
@@ -265,6 +269,13 @@
     </Compile>
     <Compile Include="Recreation.aspx.designer.cs">
       <DependentUpon>Recreation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ResearchAndDevelopment.aspx.cs">
+      <DependentUpon>ResearchAndDevelopment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ResearchAndDevelopment.aspx.designer.cs">
+      <DependentUpon>ResearchAndDevelopment.aspx</DependentUpon>
     </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>

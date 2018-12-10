@@ -145,6 +145,7 @@
     <Content Include="img\hydro5.jpg" />
     <Content Include="img\hydro6.jpg" />
     <Content Include="img\hydro7.jpg" />
+    <Content Include="img\Hydroponics_Poster.png" />
     <Content Include="img\solar1.jpg" />
     <Content Include="img\fitness1.jpg" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />

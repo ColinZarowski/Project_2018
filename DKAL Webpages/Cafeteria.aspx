@@ -1,5 +1,4 @@
-
-﻿<%@ Page Title="Cafeteria" Language="C#" AutoEventWireup="true" CodeBehind="Cafeteria.aspx.cs" Inherits="DKAL_Webpages.Cafeteria" MasterPageFile="~/Site.Master" %>
+<%@ Page Title="Cafeteria" Language="C#" AutoEventWireup="true" CodeBehind="Cafeteria.aspx.cs" Inherits="DKAL_Webpages.Cafeteria" MasterPageFile="~/Site.Master" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div>

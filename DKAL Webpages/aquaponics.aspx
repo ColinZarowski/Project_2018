@@ -7,7 +7,9 @@
         <hr>
 		
 		  <h1>Defining Aquaponics</h1>
-		  
+		  <img src="img/Hydroponics_Poster.png" style="height: 800px; width: 600px; display:block; margin-left: auto; margin-right: auto"  />
+		  <br>
+		  <br>
 		  <p><strong>Aquaponics</strong> is conventionally a system of sheltered environments for fish and other aquatic animals.
 			  It is used to extract nutrients from the waste produced by these creatures. The nutrients can be used for various
 			  purposes, but their most common use is to support the self-sufficenty of Hydroponics.

@@ -4,7 +4,9 @@
 	<h1 style="text-align: center;">Hydroponics</h1>
 	<hr>
 	<h2>What is Hydroponics?</h2>
-
+	<img src="img/Hydroponics_Poster.png" style="height: 800px; width: 600px; display:block; margin-left: auto; margin-right: auto"  />
+	<br>
+	<br>
 	<p>
 		Hydroponics has been around for decades. It was originally developed by Nasa around the 
 		50's / 60's as a way to feed astronauts on deep space missions and moon missions. 
@@ -74,6 +76,6 @@
 	<br />
 		  <hr />
 	<p>Hydroponics Page created by <strong>Domenico Tolone</strong></p>
-	<p>test</p>
+	
 
 </asp:Content>

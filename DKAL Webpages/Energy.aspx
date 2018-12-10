@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Energy.aspx.cs" Inherits="DKAL_Webpages.Energy" MasterPageFile="~/Site.Master"%>
+﻿<%@ Page Title="Energy Systems" Language="C#" AutoEventWireup="true" CodeBehind="Energy.aspx.cs" Inherits="DKAL_Webpages.Energy" MasterPageFile="~/Site.Master"%>
 
 <asp:Content ContentPlaceHolderID="MainContent" runat="server">
     <header>
@@ -28,7 +28,7 @@
             <li><h4>Solar Panels today currently operate at 44.5% efficieny meaning the true cost of them is very low.</h4></li>
             <li><h4>Currently costs approximately $3.13 per watt.</h4></li>
         </ul>
-        <asp:Image ID="Image1" runat="server" ImageUrl="~/img/solar1.jpg" Height="480px" Width="879px" ImageAlign="Middle" />
+        <asp:Image ID="Image1" runat="server" ImageUrl="~/img/solar1.jpg" Height="427px" Width="710px" ImageAlign="Middle" />
 
         <hr />
 
@@ -41,7 +41,7 @@
             <li><h4>Commonly used in a collection of wind turbines in one location known as a Wind Farm/Wind Park.</h4></li>
         </ul>
 
-        <asp:Image ID="Image4" runat="server" ImageUrl="~/img/wind1.jpg" Height="485px" Width="774px" />
+        <asp:Image ID="Image4" runat="server" ImageUrl="~/img/wind1.jpg" Height="465px" Width="710px" />
 
         <h3 class="identPoints">Why Wind Power?</h3>
         <ul class="identPoints">
@@ -62,7 +62,7 @@
             <li><h4>Requires some extensive surveying to find optimal configuration, as layouts can vary from location to location. (see the diagram below)</h4></li>
         </ul>
 
-        <asp:Image ID="Image5" runat="server" ImageUrl="~/img/wind2.png" Height="559px" Width="779px" />
+        <asp:Image ID="Image5" runat="server" ImageUrl="~/img/wind2.png" Height="589px" Width="763px" />
     </main>
 
 </asp:Content>

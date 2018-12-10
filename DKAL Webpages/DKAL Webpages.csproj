@@ -149,6 +149,7 @@
     <Content Include="img\fitness1.jpg" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="img\solar2.png" />
+    <Content Include="img\sun.png" />
     <Content Include="Recreation.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />

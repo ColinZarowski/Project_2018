@@ -23,7 +23,7 @@
 			  Once the nutrients are consumed from the water, this water is drip-fed into the fish tank to maintain its water levels.
 				The recycling process of aquaponics improves hydroponics self-sufficiency and removes the need for 
 			  additional resources to aid plant growth.</p>
-		  <img src="img/AquaponicsSystem.png" />
+		  <img src="img/AquaponicsSystem.png"  style="width:350px; height: 450px;"/>
 		  <br />
 		  <h1>Benefits</h1>
 		  <hr>

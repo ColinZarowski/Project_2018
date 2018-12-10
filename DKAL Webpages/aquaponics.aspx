@@ -1,80 +1,70 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="aquaponics.aspx.cs" Inherits="DKAL_Webpages.aquaponics" %>
+﻿<%@ Page Title="Aquaponics" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Aquaponics.aspx.cs" Inherits="DKAL_Webpages.Aquaponics" %>
 
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
-<!DOCTYPE html>
-<%-- Domenico Tolone --%>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-	<link href="StyleSheetAquaponics.css" rel="stylesheet" />
-
-    <title></title>
-</head>
-<body>
-
-    <form id="form1" runat="server">
-
-		<div class="navbarAquaponics">
-                    <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/Default.aspx">Home</a></li>
-                        <li><a runat="server" href="~/Cafeteria.aspx">Cafeteria</a></li>
-                        <li><a runat="server" href="~/Advertising.aspx">Advertising</a></li>
-                        <li><a runat="server" href="~/Hydroponics.aspx">Hydroponics</a></li>
-
-						<li><a runat="server" href="~/aquaponics.aspx">Aquaponics</a></li> 
-
-                        <li><a runat="server" href="~/About.aspx">About</a></li>
-						<li><a runat="server" href="~/Recreation.aspx">Recreation</a></li>
-                        
-                    </ul>
-                </div>
-		<div class="introPicture">
-
-			<%--  <img src="img/introPicture.jpg" style="margin-bottom: 0px" /> --%>
-
-		</div>
-
-		<div class="entry-content">
-			<h2 style="text-align: center;"><span style="color:#008000;">Be sure to visit our 
-				<a href="AquaponicsWS.aspx">Aquaponic Work Shop</a> to see our upcoming workshop</span></h2>
-			
-			       <hr>                         
-
-		</div>
-        <div class="title-container">
-			<h2 style="text-align: center; color: green;">What is Aquaponics?</h2>
-			
-        </div>
-		<div class="wip">
-
-			<p style="text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size:large;"> The most simple definition of Aquaponics is <strong>the combination of aquaculture (raising fish)
-				and hydroponics (the soil-less growing of plants)</strong>that grows <strong>fish</strong> and <strong>plants</strong>
-				together in one integrated system. The fish waste provides an organic food source for the plants, and the plants naturally 
-				filter the water fo the fish.
-			</p>
-
-
-		</div>
+	  <header>
+        <h1 style="text-align: center;">Aquaponics</h1>
+        <hr>
 		
-		<div class="row">
-			<div class="column">
-				<img src="img/aquaponics1.jpg" alt="Snow" style="width:100%">
-		 </div>
-			<div class="column">
-				<img src="img/aquaponics2.jpg" alt="Forest" style="width:100%">
-			</div>
-			<div class="column">
-				 <img src="img/aquaponics3.jpg" alt="Mountains" style="width:100%">
-		</div>
-		</div>
+		  <h1>Defining Aquaponics</h1>
+		  
+		  <p><strong>Aquaponics</strong> is conventionally a system of sheltered environments for fish and other aquatic animals.
+			  It is used to extract nutrients from the waste produced by these creatures. The nutrients can be used for various
+			  purposes, but their most common use is to support the self-sufficenty of Hydroponics.
+		  </p>
+		  <h1>Supplementing Hydroponics</h1>
+		  <hr>
+		  <p>Aquaponics is a closed loop system which allows growing fish and plants together with high self-sufficency.</p>
+		  <br />
+		  <h1>Process</h1>
+		  <br />
+		  <p class="Process">Water from a fish tank is pumped into a flood tank, where the ammonia-rich waste produced by the fish is .
+			  properly mixed. This fertiliser serves as a source of nutrients for the plants stacked over the fish tank.
+			The grow beds, where the plants are raised, have a thin layer of soil to support the root system. 
+			  Once the nutrients are consumed from the water, this water is drip-fed into the fish tank to maintain its water levels.
+				The recycling process of aquaponics improves hydroponics self-sufficiency and removes the need for 
+			  additional resources to aid plant growth.</p>
+		  <img src="img/AquaponicsSystem.png"  style="width:350px; height: 450px;"/>
+		  <br />
+		  <h1>Benefits</h1>
+		  <hr>
+		  <p>The following are some key benefits of using an Aquaponics System:</p>
+		  <ol>
+			  <li>No fertilisers are required.</li>
+			  <li>The water is recycled continuously rather than being lost to the soil.</li>
+			  <li>No pesticides or herbicides are required.</li>
+			  <li>Can be constructed anywhere (e.g. Warehouses, rooftops, basements).</li>
+		  </ol>
+		  <br />
+		  <h1>Challenges</h1>
+		  <hr>
+		  <p>The following are some key challenges of using an Aquaponics System:</p>
+		  <ol>
+			  <li>Requires energy/power to pump water from the fish tanks to the grow beds.</li>
+			  <li>Manually pumping out the water from the fish tanks would require a lot of time and manpower in large-scale farming systems.</li>
+			  <li>Truly closed loop systems would need to use renewable sources of energy such as wind or solar.</li>
+
+		  </ol>
+			  <br />
+		  <h1>Contemporary Applications</h1>
+		  <hr>
+		  <p>The following are some examples of contemporary uses of aquaponics:</p>
+		  <ol>
+			  <li>Urban food growing: Planting farms in an urban environment, eliminating the transport and preservation costs of shipping food from rural districts.</li>
+			  <li>Pesticide-free crop: Almost all aquaponic systems allow for the flourishing of crops without the need for pesticide.</li>
+			  <li>Organic fertilising: The use of fish waste as fertiliser eliminates the need for external fertilisers, and thus the costs for said fertilisers are also eliminated. The natural fertiliser also prevents damage to the crop quality from chemical fertilisers.</li>
+		  </ol>
+		  <h1>Getting Started</h1>
+		  <hr>
+		  <p>There are many requirements for starting our very own aquaponics system. <a href="https://www.theaquaponicsource.com/getting-started-checklist/">The Aquaponic Source</a> presents an excellent checklist that can guide the construction of an aquaponics division at the DKAL facility.</p>
+
+		  <br />
+		  <hr />
+		  <p>Aquaponics Page created by <strong>Domenico Tolone</strong></p>
+		  
+
+    </header>
 
 
 
-	<div class="footerAp">
-
-		<p>© 2018 - Daniel Kaukinen Advanced Laboratories</p>
-
-	</div>
-
-    </form>
-</body>
-</html>
+</asp:Content>

@@ -70,4 +70,12 @@
             <li>Improved Balance</li>
         </ul>
     </div>
+
+    <br />
+
+    <div>
+        <p>
+            <strong>Before beginning any new fitness regime, it is recommended to discuss it with your physician.</strong>
+        </p>
+    </div>
 </asp:Content>

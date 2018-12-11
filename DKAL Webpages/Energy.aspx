@@ -3,12 +3,12 @@
 <asp:Content ContentPlaceHolderID="MainContent" runat="server">
     <header>
         <h1 class="alignText">Energy Systems</h1>
-        <h4 class="alignText">DKAL is an alternate energy source provider in the community. Therefore, our sources are completely unique to those currently available locally.</h4>
+        <h3 class="alignText">DKAL is an alternate energy source provider in the community. Therefore, our sources are completely unique to those currently available locally.</h3>
     </header>
     <hr />
     <main>
         <h2 class="alignText">Solar Energy<asp:Image ID="Image3" runat="server" ImageUrl="~/img/sun.png" Height="64px" Width="74px" /></h2>        
-        <h4 class="alignText">Solar Energy is one of the alternative energy sources provided by DKAL. It is currently one of the most popular used alternative energy source.</h4>
+        <h3 class="alignText">Solar Energy is one of the alternative energy sources provided by DKAL. It is currently one of the most popular used alternative energy source.</h3>
         
         <h3 class="identPoints">What is Solar Energy?</h3>
         <ul class="identPoints">
@@ -33,7 +33,7 @@
         <hr />
 
         <h2 class="alignText">Wind Power<asp:Image ID="Image6" runat="server" ImageUrl="~/img/turbine.png" Width="48px" Height="71px" /></h2>
-        <h4 class="alignText">Wind Power is the other alternative energy source provided by DKAL. It is a relatively cheap and commonly used alternative energy source.</h4>
+        <h3 class="alignText">Wind Power is the other alternative energy source provided by DKAL. It is a relatively cheap and commonly used alternative energy source.</h3>
 
         <h3 class="identPoints">What is Wind Power?</h3>
         <ul class="identPoints">

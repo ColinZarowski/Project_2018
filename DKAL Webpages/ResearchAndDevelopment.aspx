@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="ResearchAndDevelopment.aspx.cs" Inherits="DKAL_Webpages.ResearchAndDevelopment" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container" style="text-align: left">
-        <img src="img/doctors.jpg" style="width: 451px; margin: auto" />
+        <img src="img/doctors.jpg" style="height:400px; width: 451px; margin: auto" />
         <div class="col-sm-4">
             <h1><strong>Research and Development</strong></h1>
             <hr />
@@ -14,7 +14,7 @@
                     <h2><strong>Our Current Projects</strong></h2>
             <hr />
         <div class="col-sm-4" style="display:inline-block">
-           <img src="img/regulator.jpg" style="display: inline-block" />
+           <img src="img/regulator.jpg" style="height: 400px; width: 400px" />
         </div>
         <div class="col-sm-4" style="display: inline-block">
                     <p>We are currently working on creating regulators that use 20% less air than existing models, allowing for divers to stay underwater for longer.</p>
@@ -23,7 +23,7 @@
     <hr />
     <div class="container">
         <div class="col-sm-4" style="display:inline-block">
-           <img src="img/walker.jpg" />
+           <img src="img/walker.jpg" style="height: 600px; width: 400px;" />
         </div>
         <div class="col-sm-4" style="display: inline-block">
            <p>Our company is focusing our fitness research into products that will benefit individuals who are recovering from injuries and people with physical impairments</p>

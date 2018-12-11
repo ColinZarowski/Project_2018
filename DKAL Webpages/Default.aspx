@@ -7,6 +7,6 @@
         <p class="lead">Daniel Kaukinen Advanced Laboratories Project 2018</p>
         <p><a href="http://www.confederationcollege.ca/" class="btn btn-primary btn-lg">Confederation College &raquo;</a></p>
     </div>
-	<p>test</p>
+	
 
 </asp:Content>

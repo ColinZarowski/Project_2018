@@ -18,18 +18,18 @@
             <h2>The Departments of DKAL</h2>
             <div style="display:inline-block">
             <ul style="font-size:20px">
-                <li><a href="Advertising.aspx">Advertising.aspx</a></li>
-                <li><a href="Aquaponics.aspx">Aquaponics.aspx</a></li>
-                <li><a href="Cafeteria.aspx">Cafeteria.aspx</a></li>
-                <li><a href="Energy.aspx">Energy.aspx</a></li>
+                <li><a href="Advertising.aspx">Advertising</a></li>
+                <li><a href="Aquaponics.aspx">Aquaponics</a></li>
+                <li><a href="Cafeteria.aspx">Cafeteria</a></li>
+                <li><a href="Energy.aspx">Energy</a></li>
             </ul>
             </div>
             <div style="display:inline-block">
             <ul style="font-size:20px">
-                <li><a href="Fitness.aspx">Fitness.aspx</a></li>
-                <li><a href="Hydroponics.aspx">Hydroponics.aspx</a></li>
-                <li><a href="Recreation.aspx">Recreation.aspx</a></li>
-                <li><a href="ResearchAndDevelopment.aspx">ResearchAndDevelopment.aspx</a></li>
+                <li><a href="Fitness.aspx">Fitness</a></li>
+                <li><a href="Hydroponics.aspx">Hydroponics</a></li>
+                <li><a href="Recreation.aspx">Recreation</a></li>
+                <li><a href="ResearchAndDevelopment.aspx">Research And Development</a></li>
             </ul>
             </div>
         </div>

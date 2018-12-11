@@ -41,6 +41,12 @@ textarea {
 }
 
 .identPoints {
-    margin-left: 15%;
+    margin-left: 20%;
 }
 
+.centerImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}

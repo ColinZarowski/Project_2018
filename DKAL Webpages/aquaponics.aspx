@@ -6,8 +6,12 @@
         <h1 style="text-align: center;">Aquaponics</h1>
         <hr>
 		
-		  <h1>Defining Aquaponics</h1>
 		  
+		  <img src="img/Hydroponics_Poster.png" style="height: 800px; width: 600px; display:block; margin-left: auto; margin-right: auto"  />
+		  <br>
+		  <br>
+		  <h1 style="text-align: center;">Defining Aquaponics</h1>
+	<hr />
 		  <p><strong>Aquaponics</strong> is conventionally a system of sheltered environments for fish and other aquatic animals.
 			  It is used to extract nutrients from the waste produced by these creatures. The nutrients can be used for various
 			  purposes, but their most common use is to support the self-sufficenty of Hydroponics.
@@ -24,7 +28,7 @@
 			  Once the nutrients are consumed from the water, this water is drip-fed into the fish tank to maintain its water levels.
 				The recycling process of aquaponics improves hydroponics self-sufficiency and removes the need for 
 			  additional resources to aid plant growth.</p>
-		  <img src="img/AquaponicsSystem.png"  style="width:350px; height: 450px;"/>
+		  <img src="img/AquaponicsSystem.png"  style="width:350px; height: 450px; display:block; margin-left: auto; margin-right: auto"/>
 		  <br />
 		  <h1>Benefits</h1>
 		  <hr>
@@ -60,7 +64,7 @@
 
 		  <br />
 		  <hr />
-		  <p>Aquaponics Page created by <strong>Domenico Tolone</strong></p>
+		  <p>Aquaponics Page created by <strong style="font-style:italic;">Domenico Tolone</strong></p>
 		  
 
     </header>

@@ -3,8 +3,12 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 	<h1 style="text-align: center;">Hydroponics</h1>
 	<hr>
-	<h2>What is Hydroponics?</h2>
-
+	
+	<img src="img/Hydroponics_Poster.png" style="height: 800px; width: 600px; display:block; margin-left: auto; margin-right: auto"  />
+	<br>
+	<br>
+	<h1 style="text-align: center;">What is Hydroponics?</h1>
+	<hr />
 	<p>
 		Hydroponics has been around for decades. It was originally developed by Nasa around the 
 		50's / 60's as a way to feed astronauts on deep space missions and moon missions. 
@@ -24,10 +28,10 @@
 	<br />
 	<p>Of the methods, they all have pros and cons, however the method most used commercially is Deep Water Culture (DWC).</p>
 
-	<img src="img/Hydro1.jpg" style="height: 400px; width: 600px" />
+	<img src="img/Hydro1.jpg" style="height: 400px; width: 600px; display:block; margin-left: auto; margin-right: auto" />
 	<br />
 	<br />
-	<img src="img/Hydro2.jpg" style="height: 400px; width: 600px" />
+	<img src="img/Hydro2.jpg" style="height: 400px; width: 600px; display:block; margin-left: auto; margin-right: auto" />
 	<br />
 	<br />
 	<p>This method uses net pots to hold a growing medium. Typically this can be rockwool or cotton, surrounded by expanded clay. Commercial setups try to reduce labour 
@@ -36,7 +40,7 @@
 
 	<p>The main advantage to this method is simplicity. Plants are suspended on a floating medium or lid, above the water containing nutrients. Water just touches the bottom of the net pots, 
 		allowing the roots to grow into the solution.</p>
-	<img src="img/hydro3.png" style="height: 400px; width: 600px" />
+	<img src="img/hydro3.png" style="height: 400px; width: 600px; display:block; margin-left: auto; margin-right: auto" />
 	<br />
 	<br />
 	<p>
@@ -60,20 +64,20 @@
 		continued research has shown most plants only require two spectrums of visible light - red and blue.
 		What you end up with is essentially funky pink light. Which from expereince, is super trippy to work around. 
 		So typically white lights are added when working in the area. </p>
-	<img src="img/hydro4.jpg" style="height: 400px; width: 600px" />
+	<img src="img/hydro4.jpg" style="height: 400px; width: 600px; display:block; margin-left: auto; margin-right: auto" />
 	<br />
 	<br />
-	<img src="img/hydro5.jpg" style="height: 400px; width: 600px" />
+	<img src="img/hydro5.jpg" style="height: 400px; width: 600px; display:block; margin-left: auto; margin-right: auto" />
 	<br />
 	<br />
-	<img src="img/hydro6.jpg" style="height: 400px; width: 600px" />
+	<img src="img/hydro6.jpg" style="height: 400px; width: 600px; display:block; margin-left: auto; margin-right: auto" />
 	<br />
 	<br />
-	<img src="img/hydro7.jpg" style="height: 400px; width: 600px"  />
+	<img src="img/hydro7.jpg" style="height: 400px; width: 600px; display:block; margin-left: auto; margin-right: auto"  />
 
 	<br />
 		  <hr />
-	<p>Hydroponics Page created by <strong>Domenico Tolone</strong></p>
-	<p>test</p>
+	<p>Hydroponics Page created by <strong style="font-style:italic;">Domenico Tolone</strong></p>
+	
 
 </asp:Content>

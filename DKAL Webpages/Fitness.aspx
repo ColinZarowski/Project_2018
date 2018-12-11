@@ -116,7 +116,7 @@
 
     <div>
         <p>
-            <strong>Before beginning any new fitness regime, it is recommended to discuss it with your physician.</strong>
+            <strong><em>Before beginning any new fitness regime, it is recommended to discuss it with your physician.</em></strong>
         </p>
     </div>
 </asp:Content>

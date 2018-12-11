@@ -36,7 +36,7 @@
         </ul>
 
         <h2 class="alignText">Diving Facilities</h2>
-        <h4 class="alignText">Thanks to a local scuba diving club, we also have an all season diving facilities.</h4>
+        <h4 class="alignText">Thanks to a local scuba diving club, we also have all season diving facilities.</h4>
 
         <h3 class="identPoints">This is no ordinary diving environment.</h3>
         <ul class="identPoints">

@@ -3,7 +3,7 @@
 <asp:Content ContentPlaceHolderID="MainContent" runat="server">
     <header>
         <h1 class="alignText">Recreation</h1>
-        <h4 class="alignText">DKAL is no ordinary place. All members of the DKAL team receive access to many different recreational activites.</h4>
+        <h3 class="alignText">DKAL is no ordinary place. All members of the DKAL team receive access to many different recreational activites.</h3>
     </header>
     <hr />
     <main>

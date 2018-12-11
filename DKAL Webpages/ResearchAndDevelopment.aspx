@@ -11,21 +11,22 @@
     <br />
     <br />
     <div class="container">
-        <div class="col-sm-4" style="padding:20px">
-            <h2><strong>Our Current Projects</strong></h2>
+                    <h2><strong>Our Current Projects</strong></h2>
             <hr />
-            <br />
-            <br />
+        <div class="col-sm-4" style="display:inline-block">
+           <img src="img/regulator.jpg" style="display: inline-block" />
         </div>
-        <p>We are currently working on creating regulators that use 20% less air than existing models, allowing for divers to stay underwater for longer.</p>
-        <img src="img/regulator.jpg" style="display: inline-block" />
-        &nbsp;<div style="display: inline-block">
+        <div class="col-sm-4" style="display: inline-block">
+                    <p>We are currently working on creating regulators that use 20% less air than existing models, allowing for divers to stay underwater for longer.</p>
         </div>
-        <br />
-        <br />
-        <p>Our company is currently focusing our fitness research into products that will benefit individuals who are recovering from injuries, and people with physical impairments</p>
-        <img src="img/walker.jpg" style="display: inline-block" />
-        <div style="display: inline-block">
         </div>
-    </div>
+    <hr />
+    <div class="container">
+        <div class="col-sm-4" style="display:inline-block">
+           <img src="img/walker.jpg" />
+        </div>
+        <div class="col-sm-4" style="display: inline-block">
+           <p>Our company is focusing our fitness research into products that will benefit individuals who are recovering from injuries and people with physical impairments</p>
+        </div>
+        </div>
 </asp:Content>

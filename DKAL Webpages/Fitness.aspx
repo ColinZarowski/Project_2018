@@ -37,5 +37,20 @@
         </ul>
     </div>
 
-
+    <div id="zumbaInfo">
+        <h4>Zumba</h4>
+        <p>
+            Oh... you'll have fun with Zumba! With roots in Latin America, Zumba is an aerobic fitness program. You won't be 
+            able to stop dancing your calories away! Mainly dancing to Latin America dance music, with various forms such as 
+            salsa, reggaeton, and bhangra, you won't be able to stop thinking about it. Not to mention, you'll see these 
+            benefits:
+        </p>
+        <ul id="zumbaBenefitsList">
+            <li>Full body workout</li>
+            <li>Calorie and Fat Burning</li>
+            <li>Mood Improvement and Stress Reduction</li>
+            <li>Blood Pressure Improvements</li>
+            <li>Confidence Building</li>
+        </ul>
+    </div>
 </asp:Content>

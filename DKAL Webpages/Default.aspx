@@ -10,6 +10,7 @@
         <div class="container">
         <div class="col-md-4" style="margin:auto">
             <h2>Our Mission</h2>
+            <!--Mission statement content-->
             <p>
                 Daniel Kaukinen Advanced Laboratories Is working on building a large recreational/research facility in the city of Thunder Bay. Our company hopes to bring jobs to those within Thunder Bay aswell as provide Canadians with clean energy options. Our facilities provide a state of the art fitness area, aswell as an in house diving pool to train divers.
             </p>

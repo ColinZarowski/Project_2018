@@ -24,6 +24,9 @@
 	<h4>Recreation:</h4>
 		<li>Web Page Design: <strong style="font-style:italic;">Michael Scott</strong></li>
 		<li>Research & Information: <strong style="font-style:italic;">Joshua Maki - Govind Suresh - Nahida Sultana</strong></li>
+	<h4>R&D:</h4>
+		<li>Web Page Design: <strong style="font-style:italic;">Michael Scott</strong></li>
+		<li>Research & Information: <strong style="font-style:italic;">Michael Scott</strong></li>
 	<h4>About:</h4>
 		<li>Web Page Design: <strong style="font-style:italic;">Domenico Tolone</strong></li>
 	<h4>Documentation:</h4>

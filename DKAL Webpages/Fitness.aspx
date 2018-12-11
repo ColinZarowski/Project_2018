@@ -37,6 +37,8 @@
         </ul>
     </div>
 
+    <br />
+
     <div id="zumbaInfo">
         <h4>Zumba</h4>
         <p>
@@ -53,6 +55,8 @@
             <li>Confidence Building</li>
         </ul>
     </div>
+
+    <br />
 
     <div id="walkingInfo">
         <h4>Walking</h4>

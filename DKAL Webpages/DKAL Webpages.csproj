@@ -158,6 +158,7 @@
     <Content Include="img\sun.png" />
     <Content Include="img\turbine.png" />
     <Content Include="img\walker.jpg" />
+    <Content Include="img\wavy-vine.png" />
     <Content Include="img\wind1.jpg" />
     <Content Include="img\wind2.png" />
     <Content Include="Recreation.aspx" />

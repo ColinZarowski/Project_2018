@@ -37,4 +37,7 @@
             </div>
             </div>
         </div>
+        <footer>
+        <img src="img/wavy-vine.png" style="width:100%" />
+    </footer>
 </asp:Content>

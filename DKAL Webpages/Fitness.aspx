@@ -17,4 +17,25 @@
             some complimentary information as well.
         </p>
     </div>
+
+    <hr />
+
+    <div id="yogaInfo">
+        <h4>Yoga</h4>
+        <p>
+            Some benefits of yoga include improving flexibility, muscle strength, posture, focus, and bloodflow. Yoga is 
+            a combination of physical, spiritual, and mental exercises. With an extremely abuntant amount of poses, they 
+            tackle different regions of your body. With beginner, intermediate, and advanced levels, you'll never grow tired 
+            of yoga! Our top recommendations for poses include:
+        </p>
+        <ul id="yogaList">
+            <li>Garland Pose</li>
+            <li>Four Limbed Staff pose</li>
+            <li>Extended Triangle Pose</li>
+            <li>Crescent Pose</li>
+            <li>Tripod Headstand</li>
+        </ul>
+    </div>
+
+
 </asp:Content>

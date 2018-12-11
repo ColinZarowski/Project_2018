@@ -7,7 +7,7 @@
     </header>
     <hr />
     <main>
-        <h2 class="alignText">Fitness Centre</h2>
+        <h2 class="alignText"><a href="Fitness.aspx">Fitness Centre</a></h2>
         <h4 class="alignText" >All team members will have unlimited access to the only fitness centre within our community.</h4>
         <!--<asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/img/workout-fitness-center_925x.jpg" Height="641px" Width="860px" ImageAlign="Middle"/>
         <asp:ImageButton ID="ImageButton2" runat="server" ImageUrl="~/img/fitness-ball_925x.jpg" Height="340px" Width="512px"/>-->

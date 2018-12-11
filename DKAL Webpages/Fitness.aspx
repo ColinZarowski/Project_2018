@@ -2,5 +2,8 @@
 
 <asp:Content ContentPlaceHolderID="MainContent" runat="server">
 
+    <h2>Fitness Centre</h2>
+    <br />
+
 
 </asp:Content>

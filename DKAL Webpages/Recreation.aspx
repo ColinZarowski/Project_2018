@@ -8,7 +8,7 @@
     <hr />
     <main>
         <h2 class="alignText"><a href="Fitness.aspx">Fitness Centre</a></h2>
-        <h4 class="alignText" >All team members will have unlimited access to the only fitness centre within our community.</h4>
+        <h3 class="alignText" >All team members will have unlimited access to the only fitness centre within our community.</h3>
         <!--<asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/img/workout-fitness-center_925x.jpg" Height="641px" Width="860px" ImageAlign="Middle"/>
         <asp:ImageButton ID="ImageButton2" runat="server" ImageUrl="~/img/fitness-ball_925x.jpg" Height="340px" Width="512px"/>-->
         <asp:Image ID="Image1" runat="server" ImageUrl="~/img/fitness1.jpg" Height="340px" Width="561px" ImageAlign="Middle" />
@@ -17,7 +17,7 @@
         <hr />
 
         <h2 class="alignText">Obstacle Course</h2>
-        <h4 class="alignText">All team members will also have access to an obstacle course that is inside our fitness centre.</h4>
+        <h3 class="alignText">All team members will also have access to an obstacle course that is inside our fitness centre.</h3>
 
         <h3 class="identPoints">Why an Obstacle Course?</h3>
         <ul class="identPoints">
@@ -41,7 +41,7 @@
         <hr />
         
         <h2 class="alignText">Diving Facilities</h2> 
-        <h4 class="alignText">Thanks to a local scuba diving club, we also have all season diving facilities.</h4>
+        <h3 class="alignText">Thanks to a local scuba diving club, we also have all season diving facilities.</h3>
 
         <h3 class="identPoints">This is no ordinary diving environment.</h3>
         <ul class="identPoints">

@@ -22,13 +22,13 @@
             <li><p>DKAL is located in one of the best areas for solar power generation in Canada (Ontario). (see the diagram below)</p></li>
         </ul>
 
-        <asp:Image ID="Image2" runat="server" ImageUrl="~/img/solar2.png" Height="584px" Width="904px" />
+        <asp:Image ID="Image2" runat="server" ImageUrl="~/img/solar2.png" Height="584px" Width="904px" CssClass="centerImage" />
         <h3 class="identPoints">How Cost-Effective and Efficient is Solar?</h3>
         <ul class="identPoints">
             <li><p>Solar Panels today currently operate at 44.5% efficieny meaning the true cost of them is very low.</p></li>
             <li><p>Currently costs approximately $3.13 per watt.</p></li>
         </ul>
-        <asp:Image ID="Image1" runat="server" ImageUrl="~/img/solar1.jpg" Height="427px" Width="710px" ImageAlign="Middle" />
+        <asp:Image ID="Image1" runat="server" ImageUrl="~/img/solar1.jpg" Height="427px" Width="710px" ImageAlign="Middle" CssClass="centerImage" />
 
         <hr />
 
@@ -41,7 +41,7 @@
             <li><p>Commonly used in a collection of wind turbines in one location known as a Wind Farm/Wind Park.</p></li>
         </ul>
 
-        <asp:Image ID="Image4" runat="server" ImageUrl="~/img/wind1.jpg" Height="465px" Width="710px" />
+        <asp:Image ID="Image4" runat="server" ImageUrl="~/img/wind1.jpg" Height="465px" Width="710px" CssClass="centerImage" />
 
         <h3 class="identPoints">Why Wind Power?</h3>
         <ul class="identPoints">
@@ -62,7 +62,7 @@
             <li><p>Requires some extensive surveying to find optimal configuration, as layouts can vary from location to location. (see the diagram below)</p></li>
         </ul>
 
-        <asp:Image ID="Image5" runat="server" ImageUrl="~/img/wind2.png" Height="589px" Width="763px" />
+        <asp:Image ID="Image5" runat="server" ImageUrl="~/img/wind2.png" Height="589px" Width="763px" CssClass="centerImage" />
     </main>
 
 </asp:Content>

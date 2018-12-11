@@ -77,6 +77,43 @@
 
     <br />
 
+    <div id="sessionSchedule">
+        <p>
+            If you're interested in joining one of our public sessions, here are the times offered:
+        </p>
+        <table border="1" style="font-weight: normal;">
+            <tr>
+                <th style="width: 150px">Course</th>
+                <th style="width: 250px">Dates</th>
+            </tr>
+            <tr>
+                <th>Yoga</th>
+                <th style="font-weight: normal;">Mondays 5:00PM - 6:30PM</th>
+            </tr>
+            <tr>
+                <th>Zumba</th>
+                <th style="font-weight: normal;">Thursdays 5:00PM - 7:00PM</th>
+            </tr>
+            <tr>
+                <th>Walking</th>
+                <th style="font-weight: normal;">Tuesdays 5:00PM - 6:00PM
+                    <br />
+                    Fridays 5:00PM - 6:00PM
+                </th>
+            </tr>
+        </table>
+
+        <br />
+
+        <p>
+            We'd love to see you here! If you would prefer private sessions, please contact one of our 
+            lovely receptionists.
+        </p>
+
+    </div>
+
+    <br />
+
     <div>
         <p>
             <strong>Before beginning any new fitness regime, it is recommended to discuss it with your physician.</strong>

@@ -77,7 +77,7 @@
 
 	<br />
 		  <hr />
-	<p>Hydroponics Page created by <strong>Domenico Tolone</strong></p>
+	<p>Hydroponics Page created by <strong style="font-style:italic;">Domenico Tolone</strong></p>
 	
 
 </asp:Content>

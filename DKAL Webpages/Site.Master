@@ -63,7 +63,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Daniel Kaukinen Advanced Laboratories</p>
+                <p style="text-align:center;">&copy; <%: DateTime.Now.Year %> - Daniel Kaukinen Advanced Laboratories</p>
             </footer>
         </div>
     </form>

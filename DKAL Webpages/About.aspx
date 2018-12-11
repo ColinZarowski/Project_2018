@@ -32,7 +32,6 @@
 	<h4>Documentation:</h4>
 		<li><strong style="font-style:italic;">Brandon Rutter</strong></li>
 		<li><strong style="font-style:italic;">David Lessard</strong></li>
-		
-	<hr />
+	
 	
 </asp:Content>

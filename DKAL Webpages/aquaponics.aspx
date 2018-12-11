@@ -64,7 +64,7 @@
 
 		  <br />
 		  <hr />
-		  <p>Aquaponics Page created by <strong>Domenico Tolone</strong></p>
+		  <p>Aquaponics Page created by <strong style="font-style:italic;">Domenico Tolone</strong></p>
 		  
 
     </header>

@@ -14,5 +14,23 @@
                 Daniel Kaukinen Advanced Laboratories Is working on building a large recreational/research facility in the city of Thunder Bay 
             </p>
         </div>
+        </div>    <div class="container" style="margin:auto">
+            <h2>The Departments of DKAL</h2>
+            <div style="display:inline-block">
+            <ul style="font-size:20px">
+                <li><a href="Advertising.aspx">Advertising.aspx</a></li>
+                <li><a href="Aquaponics.aspx">Aquaponics.aspx</a></li>
+                <li><a href="Cafeteria.aspx">Cafeteria.aspx</a></li>
+                <li><a href="Energy.aspx">Energy.aspx</a></li>
+            </ul>
+            </div>
+            <div style="display:inline-block">
+            <ul style="font-size:20px">
+                <li><a href="Fitness.aspx">Fitness.aspx</a></li>
+                <li><a href="Hydroponics.aspx">Hydroponics.aspx</a></li>
+                <li><a href="Recreation.aspx">Recreation.aspx</a></li>
+                <li><a href="ResearchAndDevelopment.aspx">ResearchAndDevelopment.aspx</a></li>
+            </ul>
+            </div>
         </div>
 </asp:Content>

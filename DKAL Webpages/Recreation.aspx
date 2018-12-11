@@ -20,19 +20,19 @@
 
         <h3 class="identPoints">Why an Obstacle Course?</h3>
         <ul class="identPoints">
-            <li><h4>More entertaining than standard workout routines.</h4></li>
-            <li><h4>Often more effective at providing a balanced calisthenic workout.</h4></li>
-            <li><h4>Easy to maintain.</h4></li>
-            <li><h4>Some specialized obstacle courses can be changed as much as needed.</h4></li>
-            <li><h4>Varying difficulties to make accessible for everyone.</h4></li>
+            <li><p>More entertaining than standard workout routines.</p></li>
+            <li><p>Often more effective at providing a balanced calisthenic workout.</p></li>
+            <li><p>Easy to maintain.</p></li>
+            <li><p>Some specialized obstacle courses can be changed as much as needed.</p></li>
+            <li><p>Varying difficulties to make accessible for everyone.</p></li>
         </ul>
 
         <h3 class="identPoints">What to Expect?</h3>
         <ul class="identPoints">
-            <li><h4>Indoor Course - Will be maintained year-round.</h4></li>
-            <li><h4>To be seperated from the main fitness centre area.</h4></li>
-            <li><h4>Progress Tracking technology incorpoated.</h4></li>
-            <li><h4>Patrons voting for areas needing improvement.</h4></li>
+            <li><p>Indoor Course - Will be maintained year-round.</p></li>
+            <li><p>To be seperated from the main fitness centre area.</p></li>
+            <li><p>Progress Tracking technology incorpoated.</p></li>
+            <li><p>Patrons voting for areas needing improvement.</p></li>
         </ul>
 
         <h2 class="alignText">Diving Facilities</h2>
@@ -40,11 +40,11 @@
 
         <h3 class="identPoints">This is no ordinary diving environment.</h3>
         <ul class="identPoints">
-            <li><h4>Fresh Water diving environment.</h4></li>
-            <li><h4>Olympic-size pool. (50m long x 25m wide)</h4></li>
-            <li><h4>Olympic diving boards and diving towers.</h4></li>
-            <li><h4>Surrounded by natural looking environment to provide sense of being outdoors.</h4></li>
-            <li><h4>12 person hot tub and 6 person barrel sauna.</h4></li>
+            <li><p>Fresh Water diving environment.</p></li>
+            <li><p>Olympic-size pool. (50m long x 25m wide)</p></li>
+            <li><p>Olympic diving boards and diving towers.</p></li>
+            <li><p>Surrounded by natural looking environment to provide sense of being outdoors.</p></li>
+            <li><p>12 person hot tub and 6 person barrel sauna.</p></li>
         </ul>
 
         <!--

@@ -53,4 +53,21 @@
             <li>Confidence Building</li>
         </ul>
     </div>
+
+    <div id="walkingInfo">
+        <h4>Walking</h4>
+        <p>
+            Often overlooked, walking is a very beginner friendly method of physical fitness. Currently it is the most popular form 
+            of exercise globally, as it is extremely inexpensive and welcoming to all age groups. It's convenience is unparalleled 
+            as well: there's no lack of time, fitness requirements, or skill required. We recommend briskly walking for at least 
+            30 minutes a day to see some of the following improvements: 
+        </p>
+        <ul id="walkingBenefitList">
+            <li>Reduced Risk of Heart Disease and Stroke</li>
+            <li>Increased Muscle Resistance and Strength</li>
+            <li>Reduced Body Fat</li>
+            <li>Stronger Bones</li>
+            <li>Improved Balance</li>
+        </ul>
+    </div>
 </asp:Content>
